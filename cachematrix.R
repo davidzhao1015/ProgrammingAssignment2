@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The functions calculates the inverse of a matrix, caching the calcualted inverse.  
 
 ## Make a vector of the type list containing a matrix and functions 
 
